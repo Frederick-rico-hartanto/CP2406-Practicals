@@ -1,4 +1,4 @@
-package com.example.TheFirstClass;
+package TheFirstClass;
 
 public class TheFirstClass {
     public static void main(String[] args)
